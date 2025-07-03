@@ -1,5 +1,7 @@
 # csv
 
+![Image](https://github.com/user-attachments/assets/98d7b51a-3190-4eb7-b5f1-f533e03c6c88)
+
 примеры команд:
 - `cmd.py --file example.csv` - выводит всю таблицу
 - `python cmd.py --file example.csv --where 'brand=apple'` - выводит товары от apple
