@@ -7,3 +7,4 @@
 - `python cmd.py --file example.csv --where 'brand=apple' --aggregate 'price=avg'` - выводит среднюю стоимость на все товары apple
 - `python cmd.py --file example.csv --where 'brand=xiaomi' --aggregate 'rating=max'` - выводит максиамльную стоимость из всех товаров xiaomi
 
+![Image](https://github.com/user-attachments/assets/4db3a2fe-43ea-43bd-af65-05d2eb52ff31)
